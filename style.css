@@ -63,6 +63,9 @@ body{
 .group:nth-child(1){
     min-height: 19rem;
 }
+.group:nth-child(2){
+    color: rgb(160, 160, 160);
+}
 
 .instagram-logo{
     height: 3rem;
@@ -97,8 +100,13 @@ body{
     
 }
 
+a{
+    color: #0095f6;
+}
+
 .not-account{
     color: rgb(160, 160, 160);
+    
 }
 
 .link-blue{
